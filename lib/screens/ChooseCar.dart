@@ -190,7 +190,7 @@ class _ChooseCarPriceState extends State<ChooseCarPrice> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.all(2.0),
             child: Container(
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
